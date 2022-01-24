@@ -1,30 +1,20 @@
 = auto-programming-service
 == Description
 
-=== Какую проблему данный проект решает или что нового приносит для пользователей?
+=== What problem does this project solve or what new does it bring to users?
 
-* Пункт 1
-* Пункт 2
-* ...
-* Пункт N
+* Website with a selection of BMW car functions (coding)
+* Updating navigation system
 
-=== Потенциальные пользователи
+=== Potential users
 
-* Пункт 1
-* Пункт 2
-* ...
-* Пункт N
+* _Owners BMW i3_
 
-=== Аналогичные приложения
+=== Similar Applications
 
-* Пункт 1
-* Пункт 2
-* ...
-* Пункт N
+* Bimmercode (for the phone)
+* E-SYS (for the computer)
 
-=== Конкурентное преимущество
+=== Competitive advantage
 
-* Пункт 1
-* Пункт 2
-* ...
-* Пункт N
+* The site will have the opportunity to choose a programmable car, its configuration, the choice of the desired function and the final price for activation.
