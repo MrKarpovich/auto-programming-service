@@ -1,20 +1,24 @@
 = auto-programming-service
 == Description
 
-=== What problem does this project solve or what new does it bring to users?
+==== What problem does this project solve or what new does it bring to users?
 
 * Website with a selection of BMW car functions (coding)
 * Updating navigation system
 
-=== Potential users
+==== Potential users
 
 * _Owners BMW, MINI, Toyota  :)_
 
-=== Similar Applications
+==== Similar Applications
 
 * Bimmercode (for the phone)
 * E-SYS (for the computer)
 
-=== Competitive advantage
+==== Competitive advantage
 
 * The site will have the opportunity to choose a programmable car, its configuration, the choice of the desired function and the final price for activation.
+
+== Business Analysis
+
+* link:https://miro.com/app/board/uXjVOP4zpls=/[Mind Map]
